@@ -1,0 +1,2 @@
+# SecureDataContainer
+The goal of the project is to create a SecureDataContainer&lt;E>, that is a "container" (DataContainer) of Owner, that after having successfully registered (Secure), can enter their data and do some operations on them. The purpose is to manage: ▪ Users : characterized by Id and Password. ▪ set of data : relating to a specific user (owner). It was my first project in Java at University of Pisa.
